@@ -40,10 +40,16 @@
     <img src="https://profile-counter.glitch.me/Amirabbasjadidi/count.svg?" alt="Profile Views" />
   </div>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amirabbasjadidi&theme=blue_navy&show_icons=true&count_private=true&hide_border=true" width="49.5%" height="195px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirabbasjadidi&layout=compact&hide_border=true&theme=blue_navy" width="49.5%" height="195px" />
-  </div>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Amirabbasjadidi&theme=blue_navy&show_icons=true&count_private=true&hide_border=true" height="195px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirabbasjadidi&layout=compact&hide_border=true&theme=blue_navy" height="195px" />
+      </td>
+    </tr>
+  </table>
 
 </details>
 
