@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-    <samp>
-        < Backend dev. Automation freak. Order is optional. />
-        <br>
-        < Code is my jailbreak. />
-        <br><br>
-    </samp>
+  <samp>
+    < Backend dev. Automation freak. Order is optional. />
+    <br>
+    < Code is my jailbreak. />
+    <br><br>
+  </samp>
 
   <a href="mailto:abbasjadidi2008@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Email-2d2d2d?style=flat-square&logo=gmail&logoColor=white">
@@ -34,14 +34,20 @@
 
 <details align="center">
   <summary><samp>≡ Statistics</samp></summary>
-  <br>
-  <p align="center">
-    <img alt="Profile Views" src="https://profile-counter.glitch.me/Amirabbasjadidi/count.svg?" />
-    <br><br>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amirabbasjadidi&theme=blue_navy&show_icons=true&count_private=true&hide_border=false" />
-    <br>
-  </p>
+  <br />
+
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Amirabbasjadidi/count.svg?" alt="Profile Views" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amirabbasjadidi&theme=blue_navy&show_icons=true&count_private=true&hide_border=true" width="49.5%" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirabbasjadidi&layout=compact&hide_border=true&theme=blue_navy" width="49.5%" height="195px" />
+  </div>
+
 </details>
+
+
 <p align="center">
   <em>See You On The Other Side.</em>
 </p>
