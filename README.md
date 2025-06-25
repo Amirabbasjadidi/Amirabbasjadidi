@@ -42,3 +42,6 @@
     <br>
   </p>
 </details>
+<p align="center">
+  <em>See You On The Other Side.</em>
+</p>
