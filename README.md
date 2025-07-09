@@ -37,7 +37,7 @@
   <br />
 
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Amirabbasjadidi/count.svg?" alt="Profile Views" />
+    <img src="https://profile-counter.deno.dev/amirabbasjadidi/count.svg" alt="Profile Views" />
   </div>
 
   <table align="center">
